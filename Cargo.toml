@@ -1,0 +1,6 @@
+[package]
+name = "kopier"
+version = "0.1.0"
+authors = ["Qwertee"]
+
+[dependencies]
