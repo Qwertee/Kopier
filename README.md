@@ -1,5 +1,5 @@
 # Kopier
-Simple command line text file copier
+Simple command line text file copier (And my first Rust program!)
 
 # Compiling
 Simply run `cargo build` to compile and generate an executable at `target/debug/kopier`.
